@@ -1,6 +1,6 @@
 {
   "name": "gpgga-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/index.js",
   "repository": "https://github.com/kegi/gpgga-parser",
   "author": "Kevin Gilbert <kevin@kegisiteweb.com>",
